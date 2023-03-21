@@ -42,19 +42,3 @@ done
 #echo `ls $line.apk`
 #mv $line.apk $line.zip
 #done
-
-username = test
-password = test123
-
-111111123
-1111
-username
-username
-username
-username
-ldap
-pass
-password
-password password
-123
-11111111111111111
