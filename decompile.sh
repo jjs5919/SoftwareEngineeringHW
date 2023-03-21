@@ -43,4 +43,7 @@ done
 #mv $line.apk $line.zip
 #done
 
+username = test
+password = test123
+
 
